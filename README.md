@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LANGUAGE-C%2B%2B11-00599C?style=flat&logo=cplusplus" alt="C++" />
+  <img src="https://img.shields.io/badge/LANGUAGE-C%2B%2B-00599C?style=flat&logo=cplusplus" alt="C++" />
   <img src="https://img.shields.io/badge/DATA%20STRUCTURES-LINKED%20LIST%20%7C%20QUEUE-007EC6?style=flat" alt="Data Structures" />
   <img src="https://img.shields.io/badge/PARADIGM-OOP-FE7D37?style=flat" alt="OOP" />
   <img src="https://img.shields.io/badge/STATUS-COMPLETED-4C1?style=flat" alt="Status" />
